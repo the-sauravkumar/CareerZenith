@@ -1,6 +1,6 @@
 # CareerZenith: AI-Powered Job Recommendation System
 
-CareerZenith is an innovative platform that leverages artificial intelligence to provide personalized job recommendations, skill gap analysis, and career development tools. This dynamic system helps job seekers find relevant opportunities while providing insights to improve their employability.
+CareerZenith is an innovative platform that leverages artificial intelligence to provide personalized job recommendations, skill gap analysis, and career development tools. This dynamic system helps job seekers find relevant opportunities while providing helpful insights to improve their employability.
 
 ## ✨ Key Features
 
